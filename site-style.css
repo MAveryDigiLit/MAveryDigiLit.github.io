@@ -14,7 +14,9 @@ a {
  /* This is my comment */
  /* My class text is on the right of the screen*/
  .myclass {
+   color: white;
    text-align: right;
+   background-color: rgb(125,0,250);
  }
 
 p.myclass {
