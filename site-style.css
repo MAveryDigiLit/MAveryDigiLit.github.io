@@ -1,7 +1,8 @@
-* {
-  background-color: rgba(255,0,0,0.5)
+body {
+  background-image: url("RR-Downfall.jpg")
+  background-size: 450px 300x;
+  background-repeat: repeat-x;
 }
-
 p {
   color: red;
   text-align: center;
@@ -13,7 +14,12 @@ a {
 }
 
 #para1 {
- color: green;
+  margin-top: 1in;
+  margin-left: 1.5in;
+  margin-right: 1in;
+  margin-bottom 1in;
+  
+  color: green;
  }
  
  /* This is my comment */
