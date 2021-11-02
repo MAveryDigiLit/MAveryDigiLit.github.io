@@ -1,6 +1,11 @@
+* {
+  background-color: rgba(255,0,0,0.5)
+}
+
 p {
   color: red;
   text-align: center;
+  border: 2px solid black;
 }
 
 a {
@@ -20,9 +25,6 @@ a {
  }
 
 p.myclass {
-  text-decoaration: underline;
-}
-
-* {
-
+  text-decoration: underline;
+  border: none;
 }
