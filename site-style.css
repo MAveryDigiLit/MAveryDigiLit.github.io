@@ -11,6 +11,16 @@ a {
  color: green;
  }
  
+ /* This is my comment */
+ /* My class text is on the right of the screen*/
  .myclass {
    text-align: right;
  }
+
+p.myclass {
+  text-decoaration: underline;
+}
+
+* {
+
+}
