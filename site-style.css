@@ -9,7 +9,7 @@ body {
 #navigation {
   font-size: 20px;
   background-color: white;
-  padding: 14px 16px;
+  padding: 0px 14px;
   border: 6px solid black;
   color: black;
 }
@@ -30,5 +30,4 @@ p {
  
 a {
   float: right;
-  padding: 0px 14px;
 }
