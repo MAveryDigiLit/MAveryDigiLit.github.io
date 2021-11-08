@@ -1,9 +1,11 @@
+ /* 3 style declarations */
 body {
   background-color: rgb(29, 93, 143);
   font-size: 16px;
   color: white;
 }
 
+ /* now 7 style declarations */
 #navigation {
   background-color: white;
   text-align: right;
