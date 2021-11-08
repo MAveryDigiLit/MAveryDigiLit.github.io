@@ -13,6 +13,12 @@ body {
   border: 6px solid black;
 }
 
+#title {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+ 
 a {
   color: purple;
 }
