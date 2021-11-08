@@ -31,16 +31,3 @@ a {
   float: right;
   padding: 0px 14px;
 }
-
- /* This is my comment */
- /* My class text is on the right of the screen*/
- .myclass {
-   color: white;
-   text-align: right;
-   background-color: rgb(125,0,250);
- }
-
-p.myclass {
-  text-decoration: underline;
-  border: none;
-}
