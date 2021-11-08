@@ -3,9 +3,10 @@ body {
   color: white;
 }
 
-p {
-  color: red;
-  text-align: center;
+header {
+  color: rgb(29, 93, 143);
+  background-color: rgb(185, 184, 181);
+  text-align: right;
   border: 2px solid black;
 }
 
