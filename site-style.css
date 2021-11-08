@@ -13,10 +13,11 @@ body {
   border: 6px solid black;
 }
 
-/* now 10 style declarations */
+/* now 11 style declarations */
 #title {
-  font-size: 32px;
+  font-size: 60px;
   text-align: center;
+  font-weight: bold;
   padding: 14px 16px;
 }
  
