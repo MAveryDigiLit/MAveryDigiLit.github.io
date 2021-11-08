@@ -8,7 +8,6 @@ body {
  /* now 7 style declarations */
 #navigation {
   background-color: white;
-  text-align: right;
   padding: 14px 16px;
   border: 6px solid black;
 }
