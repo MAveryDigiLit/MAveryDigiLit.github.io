@@ -1,7 +1,5 @@
 body {
-  background-image: url("RR-Downfall.jpg")
-  background-size: 450px 300x;
-  background-repeat: repeat-x;
+  background-color: rgb(20, 62, 95);
 }
 p {
   color: red;
