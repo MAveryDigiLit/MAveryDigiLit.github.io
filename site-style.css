@@ -40,8 +40,9 @@ c {
 }
 
 li {
-  margin-left: 27%;
+  margin-left: 24%;
   font-size: 60px;
+  padding: 14px 16px;
 }
 
 #box {
