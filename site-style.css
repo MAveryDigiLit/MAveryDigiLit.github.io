@@ -30,6 +30,10 @@ body {
   font-family: monospace;
  }
  
+a {
+  float: right;
+}
+
  /* This is my comment */
  /* My class text is on the right of the screen*/
  .myclass {
