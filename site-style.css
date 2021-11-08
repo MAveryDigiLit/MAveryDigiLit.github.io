@@ -5,7 +5,7 @@ body {
   color: white;
 }
 
- /* now 7 style declarations */
+ /* now 8 style declarations */
 #navigation {
   font-size: 20px;
   background-color: white;
@@ -14,7 +14,7 @@ body {
   color: black;
 }
 
-/* now 11 style declarations */
+/* now 12 style declarations */
 #title {
   font-size: 100px;
   text-align: center;
@@ -41,5 +41,7 @@ c {
 
 li {
   margin-left: 27%;
+  background-color: white;
+  border: 3px solid black;
   font-size: 60px;
 }
