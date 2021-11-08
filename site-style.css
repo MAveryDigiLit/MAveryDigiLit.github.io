@@ -22,12 +22,9 @@ body {
   padding: 14px 16px;
 }
 
-#para1 {
-  text-align: right;
-  text-indent: 1in;
-  word-spacing: 0.5in;
-  letter-spacing: 0.1in;
-  font-family: monospace;
+p {
+  margin-right: 150px;
+  margin-left: 150px;
  }
  
 a {
