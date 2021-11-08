@@ -25,10 +25,16 @@ body {
 p {
   margin-right: 150px;
   margin-left: 150px;
-  font-size: 40px;
+  font-size: 50px;
  }
  
 b {
   float: right;
   padding: 0px 16px;
+  font-weight: normal;
+}
+
+ul {
+  text-align: center;
+  font-size: 75px;
 }
