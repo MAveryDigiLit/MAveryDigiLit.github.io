@@ -17,7 +17,7 @@ body {
 /* now 12 style declarations */
 #title {
   font-size: 100px;
-  text-align: center;
+  text-align: justify;
   font-weight: bold;
   padding: 20px 20px;
 }
